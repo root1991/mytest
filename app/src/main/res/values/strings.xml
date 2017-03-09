@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndrewKhrystianTest</string>
+    <string name="transaction_one">%d transaction</string>
+    <string name="transaction_many">%d transactions</string>
+    <string name="transaction_for">Transaction for %s</string>
+    <string name="products">Products</string>
+</resources>

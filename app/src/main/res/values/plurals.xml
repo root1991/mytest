@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <plurals name="transaction">
+        <item quantity="one">@string/transaction_one</item>
+        <item quantity="other">@string/transaction_many</item>
+    </plurals>
+
+</resources>
